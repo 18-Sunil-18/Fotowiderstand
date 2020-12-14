@@ -1,2 +1,2 @@
 # Fotowiderstand
-Nr.08 Fotowiderstand
+Aufgabe: Eine LED soll leuchten, wenn es dunkel wird bzw. wenn ein Fotowiderstand abgedeckt wird.
