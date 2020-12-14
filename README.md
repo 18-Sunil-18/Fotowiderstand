@@ -1,4 +1,6 @@
-# Fotowiderstand (Helligkeitssensor auslesen – Wenn es dunkel wird, geht ein Licht an)
+# Fotowiderstand 
+(Helligkeitssensor auslesen – Wenn es dunkel wird, geht ein Licht an)
+
 Aufgabe: Eine LED soll leuchten, wenn es dunkel wird bzw. wenn ein Fotowiderstand abgedeckt wird.
 
 Jetzt wird’s etwas komplizierter! Erst durchatmen, neues Getränk holen!
